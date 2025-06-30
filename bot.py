@@ -21,8 +21,8 @@ from telegram.ext import (
 
 # --- КОНФИГУРАЦИЯ ---
 CONFIG = {
-    'TOKEN': '8087173732:AAEEPd4j_krBy4-vzDiH3MCvmDWvIYA6AZU',
-    'ADMIN_ID': 8114620763,
+    'TOKEN': 'YOUR_TG_TOKEN',
+    'ADMIN_ID': YOUR_ADMIN_ID - user_id,
     'DATABASE_FILE': 'bot_data.json',
     'LOG_FILE': 'bot.log',
     'REPORT_COOLDOWN': 300  # 5 минут между репортами
